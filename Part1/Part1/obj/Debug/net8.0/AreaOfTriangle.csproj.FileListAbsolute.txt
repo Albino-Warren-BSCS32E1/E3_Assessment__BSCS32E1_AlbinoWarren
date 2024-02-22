@@ -1,0 +1,14 @@
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\bin\Debug\net8.0\AreaOfTriangle.exe
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\bin\Debug\net8.0\AreaOfTriangle.deps.json
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\bin\Debug\net8.0\AreaOfTriangle.runtimeconfig.json
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\bin\Debug\net8.0\AreaOfTriangle.dll
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\bin\Debug\net8.0\AreaOfTriangle.pdb
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\obj\Debug\net8.0\AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\obj\Debug\net8.0\AreaOfTriangle.AssemblyInfoInputs.cache
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\obj\Debug\net8.0\AreaOfTriangle.AssemblyInfo.cs
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\obj\Debug\net8.0\AreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\obj\Debug\net8.0\AreaOfTriangle.dll
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\obj\Debug\net8.0\refint\AreaOfTriangle.dll
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\obj\Debug\net8.0\AreaOfTriangle.pdb
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\obj\Debug\net8.0\AreaOfTriangle.genruntimeconfig.cache
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Part1\obj\Debug\net8.0\ref\AreaOfTriangle.dll

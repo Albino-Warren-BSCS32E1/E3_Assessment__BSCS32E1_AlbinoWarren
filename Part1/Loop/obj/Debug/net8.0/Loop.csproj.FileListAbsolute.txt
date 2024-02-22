@@ -1,0 +1,14 @@
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\bin\Debug\net8.0\Loop.exe
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\bin\Debug\net8.0\Loop.deps.json
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\bin\Debug\net8.0\Loop.runtimeconfig.json
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\bin\Debug\net8.0\Loop.dll
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\bin\Debug\net8.0\Loop.pdb
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\obj\Debug\net8.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\obj\Debug\net8.0\Loop.AssemblyInfoInputs.cache
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\obj\Debug\net8.0\Loop.AssemblyInfo.cs
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\obj\Debug\net8.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\obj\Debug\net8.0\Loop.dll
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\obj\Debug\net8.0\refint\Loop.dll
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\obj\Debug\net8.0\Loop.pdb
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\obj\Debug\net8.0\Loop.genruntimeconfig.cache
+C:\Users\Warren27\Desktop\E3_Assessment__BSCS32E1_Albino\Part1\Loop\obj\Debug\net8.0\ref\Loop.dll
